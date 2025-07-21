@@ -1,3 +1,4 @@
+// https://github.com/cschiou/competitive-programming/blob/main/fenwick_tree.cpp
 // T can be int, long long, etc.
 template<typename T>
 class FenwickTree {
