@@ -1,4 +1,4 @@
-// https://github.com/cschiou/competitive-programming/blob/5e4a77d951b0565d574739791db8879a2192e99f/trie_lowercase.cpp
+// https://github.com/cschiou/competitive-programming/blob/main/trie_lowercase.cpp
 class Trie {
   public:
     class TrieNode {
